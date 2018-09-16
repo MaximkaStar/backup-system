@@ -1,0 +1,2 @@
+C:\Users\Максим\source\repos\backup-system\backup-system\obj\Debug\backup-system.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\backup-system\backup-system\obj\Debug\backup-system.csproj.CoreCompileInputs.cache
